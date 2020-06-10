@@ -1,0 +1,12 @@
+[submodule "src/third_party/adhd"]
+	path = src/third_party/adhd
+	url = git@github.com:dgreid/adhd
+[submodule "src/platform/crosvm"]
+	path = src/platform/crosvm
+	url = git@github.com:dgreid/crosvm
+[submodule "src/platform2"]
+	path = src/platform2
+	url = git@github.com:dgreid/platform2
+[submodule "src/aosp/external/minijail"]
+	path = src/aosp/external/minijail
+	url = git@github.com:dgreid/minijail
